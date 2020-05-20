@@ -1,4 +1,4 @@
-# TinyMCE FontAwesome Plugin - for Font Awesome 5 Pro (these entries should be updated : https://github.com/FortAwesome/Font-Awesome/releases/download/5.13.0/fontawesome-free-5.13.0-web.zip)
+/* TinyMCE FontAwesome Plugin - for Font Awesome 5 Pro (these entries should be updated : https://github.com/FortAwesome/Font-Awesome/releases/download/5.13.0/fontawesome-free-5.13.0-web.zip) */
 
 ###### v2.1.0
 
