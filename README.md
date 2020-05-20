@@ -1,10 +1,6 @@
 /* TinyMCE FontAwesome Plugin - for Font Awesome 5 Pro (these entries should be updated : https://github.com/FortAwesome/Font-Awesome/releases/download/5.13.0/fontawesome-free-5.13.0-web.zip) */
 
-###### v2.1.0
-
-A plugin that lets you insert FontAwesome icons via TinyMCE. Currently uses FontAwesome v4.7.0 and is tested on TinyMCE v4.4.2.
-
-
+###### v2.1.0  currently uses FontAwesome v4.7.0 and is tested on TinyMCE v4.4.2.
 
 ### Instructions
 1. Make sure you have FontAwesome loaded on the page that contains TinyMCE.
